@@ -2,5 +2,5 @@
 /bin/
 obj/
 
-Dependencies/
-!Dependencies/README.md
+/Dependencies/*
+!/Dependencies/README.md
