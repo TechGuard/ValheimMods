@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HammerMod", "HammerMod\HammerMod.csproj", "{FBC628D7-5AE4-4BD4-A6FD-C4C5950FA733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePlayerSleep", "SinglePlayerSleep\SinglePlayerSleep.csproj", "{9B472E1F-1AB2-4BE9-8BFF-5F256A75C15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterStamina", "BetterStamina\BetterStamina.csproj", "{2F8EDEDD-6B75-42ED-9990-D41D8A570C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropSingleItem", "DropSingleItem\DropSingleItem.csproj", "{2F6800E6-B47F-4C55-B726-2D655C5864EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC628D7-5AE4-4BD4-A6FD-C4C5950FA733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC628D7-5AE4-4BD4-A6FD-C4C5950FA733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC628D7-5AE4-4BD4-A6FD-C4C5950FA733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC628D7-5AE4-4BD4-A6FD-C4C5950FA733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B472E1F-1AB2-4BE9-8BFF-5F256A75C15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B472E1F-1AB2-4BE9-8BFF-5F256A75C15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B472E1F-1AB2-4BE9-8BFF-5F256A75C15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B472E1F-1AB2-4BE9-8BFF-5F256A75C15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8EDEDD-6B75-42ED-9990-D41D8A570C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8EDEDD-6B75-42ED-9990-D41D8A570C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8EDEDD-6B75-42ED-9990-D41D8A570C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8EDEDD-6B75-42ED-9990-D41D8A570C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6800E6-B47F-4C55-B726-2D655C5864EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6800E6-B47F-4C55-B726-2D655C5864EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6800E6-B47F-4C55-B726-2D655C5864EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6800E6-B47F-4C55-B726-2D655C5864EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245E8C6C-63FD-4FF7-8567-4E3449B8CFCA}
+	EndGlobalSection
+EndGlobal

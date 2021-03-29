@@ -1,0 +1,6 @@
+.vs
+/bin/
+obj/
+
+Dependencies/
+!Dependencies/README.md
