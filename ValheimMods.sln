@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterStamina", "BetterStam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropSingleItem", "DropSingleItem\DropSingleItem.csproj", "{2F6800E6-B47F-4C55-B726-2D655C5864EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnableCheats", "EnableCheats\EnableCheats.csproj", "{3CCD316B-7028-4C31-A4A5-D613C3810E4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2F6800E6-B47F-4C55-B726-2D655C5864EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F6800E6-B47F-4C55-B726-2D655C5864EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F6800E6-B47F-4C55-B726-2D655C5864EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCD316B-7028-4C31-A4A5-D613C3810E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCD316B-7028-4C31-A4A5-D613C3810E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCD316B-7028-4C31-A4A5-D613C3810E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCD316B-7028-4C31-A4A5-D613C3810E4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
